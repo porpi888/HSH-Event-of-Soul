@@ -3,7 +3,7 @@ require('dotenv').config();
 
 const express = require('express');
 const mongoose = require('mongoose');
-const config = require('@config/index');
+const config = require('./src/config/index.js');
 const routes = require('@routes/index');
 const Health = require('@src/Health');
 
