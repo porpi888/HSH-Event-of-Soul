@@ -1,0 +1,9 @@
+# Ignore Game Client Files
+Engine/
+HSHO/
+*.exe
+*.dll
+*.zip
+*.pak
+*.docx
+Manifest_*.txt
