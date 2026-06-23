@@ -27,6 +27,9 @@
     "prettier": "^3.7.4"
   },
   "_moduleAliases": {
-    "@config": "src/config"
-  }
+  "@config": "src/config",
+  "@routes": "src/routes",
+  "@utils": "src/utils",
+  "@src": "src"
 }
+  }
